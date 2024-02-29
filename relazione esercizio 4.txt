@@ -1,0 +1,2 @@
+Il laptot 0 invia un pachetto allo switch 0 che nel layer data non vedendo l'Ip di destinazione nell'header nella sua rete, lo manda al router
+che identidicando l'IP di destinazione in un altra rete lo manda nello switch1 che ha sua volta lo invia al laptop 2.
